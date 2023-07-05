@@ -28,7 +28,7 @@ export default function Firstpage({navigation}) {
         
 
         <View style={{ flex: 1, height: '100%', width: '100%', paddingTop: 50, backgroundColor:'white' }}>
-            
+                
             <View style={{ height: '10%', width: '100%', flexDirection: 'row', justifyContent: 'space-between' }}>
                 <View style={{ width: '30%', height: '100%', justifyContent: 'center', alignItems: 'center' }}>
                     <Image
